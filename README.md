@@ -41,4 +41,4 @@ CRUDApp using React in Client and Express JS in Server
 
 ![Update Form Page](CRUD-Updateform.png)
 
-![Delete Form Page](CRUD-Delete form.png)
+![Delete Form Page](CRUD-Deleteform.png)
