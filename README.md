@@ -35,4 +35,7 @@ CRUDApp using React in Client and Express JS in Server
 
 ## Wireframes
 
-![Home Page](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Home Page](CRUD-HomePage)
+![Add Form Page](CRUD-AddForm)
+![Update Form Page](CRUD-Updateform)
+![Delete Form Page](CRUD-Delete form)
