@@ -35,7 +35,10 @@ CRUDApp using React in Client and Express JS in Server
 
 ## Wireframes
 
-![Home Page](CRUD-HomePage)
-![Add Form Page](CRUD-AddForm)
-![Update Form Page](CRUD-Updateform)
-![Delete Form Page](CRUD-Delete form)
+![Home Page](CRUD-HomePage.png)
+
+![Add Form Page](CRUD-AddForm.png)
+
+![Update Form Page](CRUD-Updateform.png)
+
+![Delete Form Page](CRUD-Delete form.png)
